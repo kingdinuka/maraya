@@ -1,5 +1,5 @@
 ###     මාරයා bot 🇱🇰 සිංහල බොටෙක් අපේ ම බොටා
-ඔයාලත් හදලා බලන්න පහල අපෙ ශපොට් group එක තියෙනවා
+ඔයාලත් හදලා බලන්න පහල අපෙ සපෝට් group එක තියෙනවා
 [![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/yasasdileepa/slDILEEPA)
 
 [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
